@@ -45,17 +45,17 @@ Finally, each question ends in a list of tags relating to the question. tags tha
 
 ## Questions
 ---
-Questions are formatted first by providing a title that relates to the subject of the question. and then a breif form of the question. This may be enough but if it is not there is also provided extra context and a more detailed explanation of the question, removing any ambiguity. Below this is the answer, and, if neccessary, an explanation of why that answer is correct. More information may then be provided below.
+Questions are formatted first by providing a title that relates to the subject of the question. and then a brief form of the question. This may be enough but if it is not there is also provided extra context and a more detailed explanation of the question, removing any ambiguity. Below this is the answer, and, if necessary, an explanation of why that answer is correct. More information may then be provided below.
 
 For a full example of how a question may look, see [The Full Template][full-template], or for a simplifies view of how most questions will look see [The Simple Template][simple-template]
 
 ---
 # Contributing
 
-There are very few rules for contributing in order to encourage as many people as possible to submit questions. SImply:
+There are very few rules for contributing in order to encourage as many people as possible to submit questions. Simply:
 - All contributed questions should roughly follow the structure shown in the templates.
 - Secondly, This project uses Obsidian's flavour of markdown, with this file being the only exception (Using GitHub's markdown for obvious reasons), so all contributions should also follow that style
-- Lastly, any tags that you add to a question you should also ensure are in the relevent taglist file. There are no rules on what can and cannot be a tag so you may edit the taglist as necessary, just be reasonable and make sure your tag is not a duplicate of an existing one with the same meaning.
+- Lastly, any tags that you add to a question you should also ensure are in the relevant taglist file. There are no rules on what can and cannot be a tag so you may edit the taglist as necessary, just be reasonable and make sure your tag is not a duplicate of an existing one with the same meaning.
 
 For the sake of consistency, I suggest writing in British English with the inclusion of the Oxford Comma, but this will not be enforced and is simply an aesthetic preference.
 

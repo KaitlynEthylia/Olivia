@@ -10,10 +10,10 @@ see [[README]] more information on how to format questions
 
 %%
 
-# Title  #Catergory
+# Title  #Category
 ---
 ##### XX %% difficulty %%
-## Breif Phrasing of the question?
+## Brief Phrasing of the question?
 Necessary background information required for the context of the question. Anything can go here, Images, Tables, Maths, Links, whatever is necessary to describe the question.
 
 **The question, asked in more detail, removing any ambiguity?** [^1]
@@ -28,7 +28,7 @@ using the \%\% {text} \%\% syntax
 %% 
 
 - [ ] Multiple Choice Answer
-- [ ] Not requied
+- [ ] Not required
 - [ ] May be used as hints if people cannot get it without multiple choice
 
 ---
@@ -43,11 +43,11 @@ using the \%\% {text} \%\% syntax
 ---
 ## Notes
 
-Extra uneccessary information. ie fun facts surrounding the topic of the question, They may be left in plain text if they do not spoiler the answer
+Extra unnecessary information. (i.e. fun facts surrounding the topic of the question, they may be left in plain text if they do not spoiler the answer)
 
 > [!NOTE]-
 > Or be put in a callout that is closed by default if they do contain spoilers
 
 #list #of #tags %% use #'topic/tag' for a tag that is exclusive to that tag %%
-#0/topic #0/specifc #0/tags
+#0/topic #0/specific #0/tags
 
